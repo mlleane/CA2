@@ -2,3 +2,4 @@ Add new file to test changelog report plugin
 Expect to see additional line in the log file 
 Line 3 added
 line 4 added
+line 5 added
